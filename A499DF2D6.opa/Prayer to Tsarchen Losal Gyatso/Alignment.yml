@@ -1,0 +1,19 @@
+segment_sources:
+  P9AFFE39B:
+    type: origin_type
+    relation: translation
+    language: en
+  P14DC7DE4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2c18c64b2fa84e948fba047554daf9d1:
+    P9AFFE39B: cf4e86018b954afd8efd913f474b544b
+    P14DC7DE4: cc429620d2434f64ad359b9de66e1e69
+  01e6e16af8a8457faa4190c4424ea1da:
+    P9AFFE39B: 19d58ee6fc9f4b08b5868c6a75c403ef
+    P14DC7DE4: 71c3c9819e054f06893bdd8da648bcf9
+  79028bd821ed4a479bfd5d8ac2b48abe:
+    P9AFFE39B: 25ca2894320140fa83981596935a54f1
+    P14DC7DE4: 3c2ae9ee857e4a959baeb5db587500e2
